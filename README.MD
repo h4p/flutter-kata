@@ -52,3 +52,8 @@ For Android make sure that the
 # Configure Editor
 It is recommended to use the Android SDK. After starting the `Flutter` Plugin must be installed
 
+
+# Online Editor
+For tutorials the `DartPad` Editor can be used. The link is:
+
+ * [https://dartpad.dartlang.org/](https://dartpad.dartlang.org/)
